@@ -5,6 +5,8 @@ Confluent was founded by the original creators of Apache Kafka to provide an ent
 
 ## [What Is Apache Kafka ?](https://www.confluent.io/what-is-apache-kafka/#a-timeline-the-history-of-kafka)
 
+<img width="1128" height="636" alt="image" src="https://github.com/user-attachments/assets/03b34e5f-f04b-4bda-9c38-c865e724a376" />
+
 - Apache Kafka is an open source distributed system used to publish, subscribe to, store, and process streams of events or records in real time.
 
 - Originally created to handle real-time data feeds at LinkedIn, Kafka quickly evolved from a messaging queue to a powerful event streaming system, capable of handling over one million messages per second or trillions of messages per day.
